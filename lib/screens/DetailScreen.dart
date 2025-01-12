@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:latlong2/latlong.dart';
 
 class MapWithRoutes extends StatefulWidget {
-  final double startLat = 37.33;
+  final double startLat = 37.34;
   final double startLon = -121.89;
   final double endLat;
   final double endLon;
